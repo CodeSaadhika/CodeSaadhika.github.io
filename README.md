@@ -1,2 +1,3 @@
-# CodeSaadhika.github.io
+# CodeSaadhika - I Code
+
 List experimental and learning projects
